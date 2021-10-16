@@ -16,7 +16,7 @@ img {
 
 #welcome {
     padding: 70px;
-    text-align: center:
+    text-align: center;
 }
 
 h1 {
@@ -77,12 +77,12 @@ h2 {
 }
 
 #My work a {
-    font-size: :30px;
+    font-size: 30px;
 
 }
 
 #References a {
-    font-size: :30px;
+    font-size: 30px;
 
 }
 
@@ -108,6 +108,6 @@ img:hover {
     /*Give transform property to scale to 0.9*/
 
     transform: scale(0.9);
-    
+
 
 }
